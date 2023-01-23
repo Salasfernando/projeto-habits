@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para monitorar seu dia.
 
-- [Acesse o projeto finalizado, online](https://github.com/Salasfernando/projeto-habits)
+- [Acesse o projeto finalizado, online](https://salasfernando.github.io/projeto-habits/)
 
 ## 🔖 Layout
 
