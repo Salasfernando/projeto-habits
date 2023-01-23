@@ -34,12 +34,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para monitorar seu dia.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
+- [Acesse o projeto finalizado, online](https://github.com/Salasfernando/projeto-habits)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/aZOd9Dh4Ebpl6gpxgCNxQx/Habits-(e)-(Community)?node-id=6%3A344&t=psihDkaq6zxg7iho-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/aZOd9Dh4Ebpl6gpxgCNxQx/Habits-(e)-(Community)?node-id=6%3A344&t=psihDkaq6zxg7iho-1>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
